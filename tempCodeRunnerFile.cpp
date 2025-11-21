@@ -1,0 +1,1 @@
+display(insertp(4,100,head));
